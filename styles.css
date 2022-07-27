@@ -149,7 +149,7 @@ p {
 }
 
 .red-line {
-    list-style: url('/images/red line.png');
+    list-style: url('images/red line.png');
 }
 
 .skill-subheading {
